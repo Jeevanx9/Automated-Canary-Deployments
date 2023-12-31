@@ -1,0 +1,10 @@
+project-2-canary-deployments/
+|-- webapp/
+|   |-- app.py
+|-- deployment/
+|   |-- deploy.sh
+|-- rollback/
+|   |-- rollback.sh
+|-- verification/
+|   |-- verify.sh
+|-- README.md
